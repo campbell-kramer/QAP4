@@ -20,4 +20,4 @@ Now I will answer the project survey thing.
 4. Did you ask for help from an instructor?
    No.
 5. Rate the difficulty of each problem and your confidence in solving similar problems in the future.
-   Difficulty was very hard just because I had to problem solve so much of the connectivity stuff and server details.
+   Difficulty was very hard just because I had to problem-solve so much of the connectivity stuff and server details.
